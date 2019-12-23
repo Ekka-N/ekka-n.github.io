@@ -395,7 +395,8 @@ body {
     .header__menu {
         padding: 30px 20px;
     }
-    .header_wrap {
+    .header_wrap,
+    .header__menu  {
         background: #f6f6f4;
     }
     .header__logo,
