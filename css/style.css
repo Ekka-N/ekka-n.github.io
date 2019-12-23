@@ -397,7 +397,7 @@ body {
     }
     .header_wrap,
     .header__menu  {
-        background: url(../img/first_section/new_collection_mobile.png) no-repeat;;
+        background: #f6f6f4;
     }
     .header__logo,
     .desc__title-main {
