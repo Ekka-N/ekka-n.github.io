@@ -391,13 +391,12 @@ body {
     /* first */
     .header {
         height: 69px;
-        background: url(../img/first_section/new_collection_mobile.png) no-repeat;
     }
     .header__menu {
         padding: 30px 20px;
     }
     .header_wrap {
-        background: #fff;
+        background: #f6f6f4;
     }
     .header__logo,
     .desc__title-main {
