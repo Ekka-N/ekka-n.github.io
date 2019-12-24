@@ -3,9 +3,6 @@ body {
     margin: 0 auto;
     max-width: 1440px;
 }
-.section {
-    overflow: hidden;
-}
 /* HEADER */
 .header {
     height: 92px;
@@ -387,6 +384,7 @@ body {
     .third-section,
     .third-section__footer {
         background: linear-gradient(to right, #EBE3D8 100px, #000 100px, #000 141px, #EBE3D8 141px);
+        overflow: hidden;
     }
 }
 @media (max-width: 920px) {  
