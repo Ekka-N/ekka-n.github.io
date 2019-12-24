@@ -3,7 +3,9 @@ body {
     margin: 0 auto;
     max-width: 1440px
 }
-
+.section {
+    overflow: hidden;
+}
 /* HEADER */
 .header {
     height: 92px;
